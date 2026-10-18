@@ -15,7 +15,7 @@ npm run build    # production build
 |---|---|
 | Rahaf Alnatheer | 222411035 |
 | Fay Alsubaie | 222410396 |
-| Aljawaharah Alsaeegh | 22241096 |
+| Aljawaharah Alsaeegh | 222410961 |
 
 ## Docs
 - [Requirements](docs/requirements.md)
